@@ -4,6 +4,10 @@
 DeepSeek
 梁文锋
 
+Java
+Redis
+Python
+
 华为
 鸿蒙
 HarmonyOS
